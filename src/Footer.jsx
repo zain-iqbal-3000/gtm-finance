@@ -130,7 +130,7 @@ function Footer() {
             </div>
           </div>
         </div>
-      </div>po[]
+      </div>
     </footer>
   )
 }
